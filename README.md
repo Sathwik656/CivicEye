@@ -176,7 +176,11 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 3. Optimize the YOLO model for Indian road conditions.
 
 ---
-
+* by
+* sathwik
+* sakshith
+* deekshith
+* pratyaksh
 ## **Support**
 For issues or feature requests, please open a ticket in the [GitHub Issues](https://github.com/your-repo/CivicEye/issues) section or contact us at support@CivicEye.com.
 
