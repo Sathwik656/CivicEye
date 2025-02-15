@@ -122,7 +122,7 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 ## **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/roadwatch.git
+   git clone https://github.com/your-repo/CivicEye.git
    ```
 2. Navigate to the project directory and install dependencies:
    ```bash
@@ -159,7 +159,7 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 ---
 
 ## **Web Dashboard**
-1. **URL:** [https://roadwatch-dashboard.com](https://roadwatch-dashboard.com)
+1. **URL:** [https://CivicEye-dashboard.com](https://CivicEye-dashboard.com)
 2. **Features:**
    - View detailed violation logs.
    - Filter by violation type, date, or client.
@@ -176,5 +176,5 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 ---
 
 ## **Support**
-For issues or feature requests, please open a ticket in the [GitHub Issues](https://github.com/your-repo/roadwatch/issues) section or contact us at support@roadwatch.com.
+For issues or feature requests, please open a ticket in the [GitHub Issues](https://github.com/your-repo/CivicEye/issues) section or contact us at support@CivicEye.com.
 
