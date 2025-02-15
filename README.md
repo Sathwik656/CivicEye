@@ -1,7 +1,7 @@
-# **RoadWatch: Traffic Violation Detection Software**
+# **CivicEye: Traffic Violation Detection Software**
 
 ## **Introduction**
-RoadWatch is an innovative software designed to detect and monitor traffic violations using home-based CCTV cameras. It empowers users to identify common traffic rule violations, such as riding without helmets or triple riding, in real-time. The software integrates seamlessly with user-provided CCTV systems, processes violations locally, and sends critical data and evidence to a centralized database. Users can access detailed violation logs and reports via a dedicated website.
+CivicEye is an innovative software designed to detect and monitor traffic violations using home-based CCTV cameras. It empowers users to identify common traffic rule violations, such as riding without helmets or triple riding, in real-time. The software integrates seamlessly with user-provided CCTV systems, processes violations locally, and sends critical data and evidence to a centralized database. Users can access detailed violation logs and reports via a dedicated website.
 
 ---
 
