@@ -1,5 +1,5 @@
 # CivicEye
-Introduction
+# Introduction
 With increasing traffic violations posing safety risks, leveraging modern technology to enhance traffic monitoring has become a necessity. Our project introduces an innovative software solution that detects and records traffic violations using home-based CCTV systems. By integrating with users' existing CCTV setups, our platform employs advanced object detection models to identify specific violations, such as riding without a helmet. The system notifies users with detailed reports, including captured images, enabling them to stay informed about nearby violations. This project bridges the gap between personal surveillance and public safety, promoting a culture of responsible driving.
 
 Objectives
