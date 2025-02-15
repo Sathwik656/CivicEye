@@ -158,9 +158,12 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 
 ---
 
-## **Web Dashboard**
-1. **URL:** [https://CivicEye-dashboard.com](https://CivicEye-dashboard.com)
+## **Website**
+1. **URL:** [https://CivicEye.com](https://CivicEye.com)
 2. **Features:**
+   - Software Info
+   - System info
+   - User Registration and Login
    - View detailed violation logs.
    - Filter by violation type, date, or client.
    - Download images and reports.
@@ -168,10 +171,9 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 ---
 
 ## **Future Enhancements**
-1. Add support for more traffic violations (e.g., signal jumping, wrong-way driving).
-2. Enable multi-language support for broader accessibility.
-3. Implement live notification features (e.g., email or SMS alerts).
-4. Optimize the YOLO model for Indian road conditions.
+1. Enable multi-language support for broader accessibility.
+2. Implement live notification features (e.g., email or SMS alerts).
+3. Optimize the YOLO model for Indian road conditions.
 
 ---
 
