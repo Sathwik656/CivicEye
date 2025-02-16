@@ -159,7 +159,7 @@ CivicEye is an innovative software designed to detect and monitor traffic violat
 ---
 
 ## **Website**
-1. **URL:** [https://CivicEye.in](https://CivicEye.in)
+1. **URL:** [https://CivicEye.in](https://sathwik656.github.io/CivicEye-Website/)
 2. **Features:**
    - Software Info
    - System info
